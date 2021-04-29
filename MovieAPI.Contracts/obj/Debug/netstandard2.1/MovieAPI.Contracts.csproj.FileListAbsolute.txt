@@ -1,0 +1,9 @@
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Contracts\bin\Debug\netstandard2.1\MovieAPI.Contracts.deps.json
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Contracts\bin\Debug\netstandard2.1\MovieAPI.Contracts.dll
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Contracts\bin\Debug\netstandard2.1\MovieAPI.Contracts.pdb
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Contracts\obj\Debug\netstandard2.1\MovieAPI.Contracts.AssemblyInfoInputs.cache
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Contracts\obj\Debug\netstandard2.1\MovieAPI.Contracts.AssemblyInfo.cs
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Contracts\obj\Debug\netstandard2.1\MovieAPI.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Contracts\obj\Debug\netstandard2.1\MovieAPI.Contracts.dll
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Contracts\obj\Debug\netstandard2.1\MovieAPI.Contracts.pdb
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Contracts\obj\Debug\netstandard2.1\MovieAPI.Contracts.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Business\bin\Debug\netstandard2.0\MovieAPI.Business.deps.json
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Business\bin\Debug\netstandard2.0\MovieAPI.Business.dll
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Business\bin\Debug\netstandard2.0\MovieAPI.Business.pdb
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Business\bin\Debug\netstandard2.0\MovieAPI.Contracts.dll
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Business\bin\Debug\netstandard2.0\MovieAPI.Contracts.pdb
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Business\obj\Debug\netstandard2.0\MovieAPI.Business.csprojAssemblyReference.cache
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Business\obj\Debug\netstandard2.0\MovieAPI.Business.AssemblyInfoInputs.cache
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Business\obj\Debug\netstandard2.0\MovieAPI.Business.AssemblyInfo.cs
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Business\obj\Debug\netstandard2.0\MovieAPI.Business.csproj.CopyComplete
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Business\obj\Debug\netstandard2.0\MovieAPI.Business.dll
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Business\obj\Debug\netstandard2.0\MovieAPI.Business.pdb
+C:\Users\PPC\source\repos\MovieApi\MovieAPI.Business\obj\Debug\netstandard2.0\MovieAPI.Business.csproj.CoreCompileInputs.cache

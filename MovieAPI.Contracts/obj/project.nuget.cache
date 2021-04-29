@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yDD2OScnwRYkeYDlj+ehzEBmVa7cyIE1weD0T92WHaubtJ4x1p9TmsgiSCzHeOTpPK8srp3W24LwYfVuH7C08w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PPC\\source\\repos\\MovieApi\\MovieAPI.Contracts\\MovieAPI.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PPC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\PPC\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
